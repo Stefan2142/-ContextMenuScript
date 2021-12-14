@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Date Replace (PY)]
+@="Date Replace (PY)"
+
+[HKEY_CLASSES_ROOT\*\shell\Date Replace (PY)\command]
+@="\"C:\\Users\\stefa\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe\" \"D:\\1. Programiranje\\1. Klijenti\\ContextMenuScript\\DateReplace.py\" \"%1\""
