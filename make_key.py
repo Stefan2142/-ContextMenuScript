@@ -37,3 +37,7 @@ reg.SetValue(key1, '', reg.REG_SZ, f'{python_exe} {fl} "%~f1"') # change 'file_o
 # @="\"C:\\Users\\<user>\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe\" \"C:\\Users\\<user>\\AppData\\Roaming\\Microsoft\\Windows\\SendTo\\test.py\" \"%1\""
 
 # In a regular Send to action - use "%~f1"
+
+# Useful links:
+# http://sbirch.net/tidbits/context_menu.html
+# https://superuser.com/questions/444726/windows-how-to-add-batch-script-action-to-right-click-menu
